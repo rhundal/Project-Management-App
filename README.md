@@ -19,3 +19,8 @@ For this assessment students will work in a group(s) to write a full stack appli
 
 ## Contributors 
 
+Dennis Drueck 
+Martin Hu
+Thomas Tubbs
+Antonio Salmeron
+Sejo Basic
